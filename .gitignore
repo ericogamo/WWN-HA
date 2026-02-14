@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.log
+inspection_data/
+temp/
+# Build files
+build/
+dist/
+*.egg-info/
+# Research scripts (optional - you can keep if you want to reuse)
+inspect_login.py
+probe_output.txt
+ww_portal_fetcher.py
+# VS Code
+.vscode/

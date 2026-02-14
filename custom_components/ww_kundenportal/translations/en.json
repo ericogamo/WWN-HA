@@ -1,0 +1,19 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Westfalen Weser Authentication",
+                "data": {
+                    "username": "Username",
+                    "password": "Password"
+                }
+            }
+        },
+        "error": {
+            "invalid_auth": "Invalid authentication"
+        },
+        "abort": {
+            "already_configured": "Account is already configured"
+        }
+    }
+}

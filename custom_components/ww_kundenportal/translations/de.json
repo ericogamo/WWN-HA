@@ -1,0 +1,19 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Westfalen Weser Anmeldung",
+                "data": {
+                    "username": "Benutzername",
+                    "password": "Passwort"
+                }
+            }
+        },
+        "error": {
+            "invalid_auth": "Anmeldung fehlgeschlagen"
+        },
+        "abort": {
+            "already_configured": "Konto ist bereits konfiguriert"
+        }
+    }
+}

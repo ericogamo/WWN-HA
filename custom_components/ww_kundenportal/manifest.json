@@ -1,0 +1,13 @@
+{
+    "domain": "ww_kundenportal",
+    "name": "Westfalen Weser Kundenportal",
+    "documentation": "https://github.com/custom-components/ww_kundenportal",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": [
+        "beautifulsoup4>=4.0.0",
+        "requests>=2.0.0"
+    ],
+    "version": "1.0.0",
+    "iot_class": "cloud_polling"
+}
