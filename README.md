@@ -47,12 +47,3 @@ Use these in your **Energy Dashboard**:
 
 ## Disclaimer
 This is an unofficial integration and is not affiliated with Westfalen Weser Netz GmbH. Use at your own risk.
-
-## HACS Installation Note
-To install this via HACS as a custom repository, you must create a **Release** in your GitHub repository.
-1.  Push your code to GitHub.
-2.  Go to "Releases" > "Create a new release".
-3.  Tag version: `v1.0.0`.
-4.  Title: `v1.0.0`.
-5.  Publish release.
-HACS will then find version `1.0.0` (matching `manifest.json`).
